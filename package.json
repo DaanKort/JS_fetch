@@ -1,0 +1,19 @@
+{
+  "name": "js-fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaanKort/JS_fetch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaanKort/JS_fetch/issues"
+  },
+  "homepage": "https://github.com/DaanKort/JS_fetch#readme"
+}
